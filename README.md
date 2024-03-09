@@ -2,9 +2,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,idea,java,vim,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,cs,idea,java,vim,mysql,postman" />
   </a>
 </p>
+
+
+### My GitHub Stats 
+
+
+![Alexiades's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiades&show_icons=true&theme=radical)
 
 <!--
 **Alexiades/Alexiades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
